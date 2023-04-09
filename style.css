@@ -1,0 +1,24 @@
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(245, 226, 226);
+}
+img{
+    width: 20%;
+}
+main{
+    color: aliceblue;
+}
+div{
+    text-align: center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(246, 209, 164);
+    line-height: 1,5;
+    letter-spacing: 1.5;
+    background-color: rgb(226, 129, 129);}

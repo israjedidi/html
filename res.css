@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(170, 67, 67);
+}
+header{
+    color: beige;
+    background-color: rgb(165, 111, 29);
+    text-align: center;
+}
+main{
+    background-color: rgb(78, 51, 17);
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
+footer{
+    text-align: center;
+}
